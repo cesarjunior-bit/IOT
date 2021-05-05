@@ -1,0 +1,18 @@
+RESISTORES
+
+Chuveiros elétricos, filamentos de lâmpadas incandescentes e outros equipamentos que geram calor são exemplos de uso de resistores. 
+Eles também são usados em estufas térmicas, fornos elétricos, secadores de cabelo e ferros de passar roupas, entre outras aplicações.
+
+CAPACITORES
+
+Na indústria esse componente é utilizado em diversas formas. 
+Ele ajuda a compor circuitos elétricos de inúmeros aparelhos, como, por exemplo, máquinas fotográficas, computadores e televisores. 
+A função dos capacitores é essencial em circuitos ressonantes e circuitos retificadores, assim como em divisores de frequência.
+
+DIODOS
+
+Pontes retificadoras.
+Evitar correntes reversas que podem danificar componentes.
+Iluminação LED.
+Reguladores de tensão (diodos zener)
+Fotos-diodo.
